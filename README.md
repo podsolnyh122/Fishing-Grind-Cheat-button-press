@@ -9,3 +9,5 @@ When a saved template image appears in the centre of the screen, the script inst
 Press F9 anytime to save a debug screenshot and see exactly what the bot is looking at.
 
 Note: Optimised for 1920×1080. Accuracy depends on UI consistency.
+
+<img width="600" height="600" alt="DEBUG_SCREEN" src="https://github.com/user-attachments/assets/8dfaa6bb-be7c-453d-ac05-deb5b0acbe65" />
