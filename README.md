@@ -2,7 +2,7 @@
 Yea it cheat for fishing grind
 
 
-[u]Plug and play[/u] Python fishing macro with image recognition.
+Plug and play Python fishing macro with image recognition.
 
 Just download, run, and it works. Ready‑to‑use template images (.png files) are already included – no setup required. The script automatically detects visual cues on screen and presses the assigned keys.
 
