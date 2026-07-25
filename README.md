@@ -2,12 +2,13 @@
 Yea it cheat for fishing grind
 
 
-An image‑recognition macro that automates fishing by detecting visual cues on screen.
+[u]Plug and play[/u] Python fishing macro with image recognition.
 
-When a saved template image appears in the centre of the screen, the script instantly presses the assigned key(s). Just drop your .png templates into the folder – the filename determines which keys are pressed (e.g., space.png = press Space).
+Just download, run, and it works. Ready‑to‑use template images (.png files) are already included – no setup required. The script automatically detects visual cues on screen and presses the assigned keys.
 
-Press F9 anytime to save a debug screenshot and see exactly what the bot is looking at.
+Press F9 anytime to save a debug screenshot.
 
 Note: Optimised for 1920×1080. Accuracy depends on UI consistency.
+
 
 <img width="600" height="600" alt="DEBUG_SCREEN" src="https://github.com/user-attachments/assets/8dfaa6bb-be7c-453d-ac05-deb5b0acbe65" />
