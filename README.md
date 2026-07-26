@@ -6,7 +6,10 @@ Plug and play Python fishing macro with image recognition.
 
 Just download, run, and it works. Ready‑to‑use template images (.png files) are already included – no setup required. The script automatically detects visual cues on screen and presses the assigned keys.
 
-Donwload - pip install opencv-python numpy pyautogui keyboard pywin32 PyDirectInput pygetwindow
+Donwload 
+```bash
+pip install opencv-python numpy pyautogui keyboard pywin32 PyDirectInput pygetwindow
+```
 
 Press F9 anytime to save a debug screenshot.
 
