@@ -53,7 +53,7 @@ def run_debug_macro():
             result = cv2.matchTemplate(screen_gray, template, cv2.TM_CCOEFF_NORMED)
             _, max_val, _, _ = cv2.minMaxLoc(result)
             
-            if max_val >= 0.80:
+            if max_val >= 0.93:  # accuracy 
                 print(f"[{file_name}] (accuracy: {max_val:.2f})")
                 
                 for char in keys_to_press:
